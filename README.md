@@ -1,2 +1,1 @@
-# python-propinas
-PROPINAS (Python)
+# python-codes
